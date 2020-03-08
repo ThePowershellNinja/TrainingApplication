@@ -1,0 +1,17 @@
+[
+    {
+        "Name":  "About Powershell",
+        "Parent":  "Day 1",
+        "Path":  "Day1\\AboutPowershell"
+    },
+    {
+        "Name":  "Help System",
+        "Parent":  "Day 1",
+        "Path":  "Day1\\HelpSystem"
+    },
+    {
+        "Name":  "Objects",
+        "Parent":  "Day 2",
+        "Path":  "Day2\\Objects"
+    }
+]
